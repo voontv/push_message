@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135960645669",
+    "firebase_url": "https://it-dawaco.firebaseio.com",
+    "project_id": "it-dawaco",
+    "storage_bucket": "it-dawaco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135960645669:android:78cf2e19adaf66cb236fcc",
+        "android_client_info": {
+          "package_name": "it.dawaco.voontv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135960645669-v28e77ugv7rce9j9du07qt89539qa5vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHIrWIwv3dBKbvgq2ielyenIcllvmvvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135960645669-v28e77ugv7rce9j9du07qt89539qa5vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

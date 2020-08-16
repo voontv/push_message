@@ -1,0 +1,2 @@
+rootProject.name='Dawaco_android_app'
+include ':app'
